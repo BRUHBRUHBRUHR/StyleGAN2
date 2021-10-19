@@ -1,2 +1,2 @@
-import os as aphla
-aplha,system("nvidia-smi")
+import os as alpha
+aplha.system("nvidia-smi")
